@@ -282,7 +282,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/leobartowski/Desktop/ASSSC/Esercizio 1/Test/test350/REPCTT350_1.csv</stringProp>
+          <stringProp name="filename">/Users/leobartowski/Desktop/ASSSC/Esercizio 1/Test/test350/REPCTT350_3.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
