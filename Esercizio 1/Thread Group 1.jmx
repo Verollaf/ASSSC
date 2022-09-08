@@ -30,7 +30,7 @@
           <intProp name="calcMode">0</intProp>
           <doubleProp>
             <name>throughput</name>
-            <value>350.0</value>
+            <value>400.0</value>
             <savedValue>0.0</savedValue>
           </doubleProp>
         </ConstantThroughputTimer>
@@ -282,7 +282,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/leobartowski/Desktop/ASSSC/Esercizio 1/Test/test350/REPCTT350_3.csv</stringProp>
+          <stringProp name="filename">/Users/leobartowski/Desktop/ASSSC/Esercizio 1/Test/test4002/REPCTT400_3.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
