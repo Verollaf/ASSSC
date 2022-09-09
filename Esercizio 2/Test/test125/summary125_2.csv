@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request Small PDF,18751,0,0,10,0.56,0.000%,62.50229,628.23,7.57,10292.6
+TOTAL,18751,0,0,10,0.56,0.000%,62.50229,628.23,7.57,10292.6
