@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request Large PDF,17318,380,13,5405,218.26,0.000%,57.66305,281574.54,6.98,5000296.6
+TOTAL,17318,380,13,5405,218.26,0.000%,57.66305,281574.54,6.98,5000296.6
