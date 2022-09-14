@@ -205,7 +205,7 @@
         <ConstantThroughputTimer guiclass="TestBeanGUI" testclass="ConstantThroughputTimer" testname="Constant Throughput Timer" enabled="true">
           <doubleProp>
             <name>throughput</name>
-            <value>300.0</value>
+            <value>700.0</value>
             <savedValue>0.0</savedValue>
           </doubleProp>
           <intProp name="calcMode">0</intProp>
@@ -282,7 +282,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/leobartowski/Desktop/ASSSC/Esercizio 1/Test/test300_2/REPCTT300_4.csv</stringProp>
+          <stringProp name="filename">/Users/leobartowski/Desktop/ASSSC/Esercizio 1/Test/test700_2/REPCTT700_1.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
