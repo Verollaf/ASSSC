@@ -29999,3 +29999,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1663186310064,88,HTTP Request Large PDF,200,OK,Thread Group 1-24,text,true,,5000297,118,3,3,http://10.37.129.3/large.pdf,7,0,0
 1663186310062,92,HTTP Request Large PNG,200,OK,Thread Group 1-20,bin,true,,4986430,118,2,2,http://10.37.129.3/large.jpg,9,0,0
 1663186310066,89,HTTP Request Large HTML,200,OK,Thread Group 1-28,text,true,,5000314,119,2,2,http://10.37.129.3/large.html,10,0,0
+,,,,,,,,,,,,,,,,
+media,34.7228666666667,,,,,,,,,,,,,,,
+stdev,39.9159104424007,,,,,,,,,,,,,,,
+stdev/media,1.14955688496535,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+mediana,11,,,,,,,,,,,,,,,

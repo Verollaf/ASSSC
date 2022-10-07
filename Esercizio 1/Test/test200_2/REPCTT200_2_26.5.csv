@@ -29989,3 +29989,9 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1663185773022,13,HTTP Request Large PDF,200,OK,Thread Group 1-17,text,true,,5000297,118,3,3,http://10.37.129.3/large.pdf,1,0,0
 1663185773065,3,HTTP Request Medium PDF,200,OK,Thread Group 1-7,text,true,,250295,119,2,2,http://10.37.129.3/medium.pdf,1,0,0
 1663185773065,16,HTTP Request Large PDF,200,OK,Thread Group 1-12,text,true,,5000297,118,1,1,http://10.37.129.3/large.pdf,2,0,0
+,,,,,,,,,,,,,,,,
+media,26.5006002000667,,,,,,,,,,,,,,,
+stdev,35.5002293036185,,,,,,,,,,,,,,,
+stdev/media,1.33960095377497,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+mediana,9,,,,,,,,,,,,,,,
