@@ -1,0 +1,32 @@
+1132173418 R46-M1-NC J14-U01 rts: kernel terminated for reason 1004
+1132173419 R46-M1-N0 J14-U01 rts: kernel terminated for reason 1004
+1132173419 R46-M1-N8 J14-U01 rts: kernel terminated for reason 1004
+1132173420 R46-M1-NE J14-U01 rts: kernel terminated for reason 1004
+1132173422 R46-M1-NF J14-U01 rts: kernel terminated for reason 1004
+1132173423 R46-M1-N1 J14-U01 rts: kernel terminated for reason 1004
+1132173424 R46-M1-N9 J14-U01 rts: kernel terminated for reason 1004
+1132173425 R46-M1-N3 J14-U01 rts: kernel terminated for reason 1004
+1132173427 R46-M1-N7 J14-U01 rts: kernel terminated for reason 1004
+1132173428 R46-M1-N5 J14-U01 rts: kernel terminated for reason 1004
+1132173429 R46-M1-N2 J14-U01 rts: kernel terminated for reason 1004
+1132173430 R46-M1-ND J14-U01 rts: kernel terminated for reason 1004
+1132173431 R46-M1-NB J14-U01 rts: kernel terminated for reason 1004
+1132173432 R46-M1-NA J14-U01 rts: kernel terminated for reason 1004
+1132173433 R46-M1-N6 J14-U01 rts: kernel terminated for reason 1004
+1132173435 R46-M1-NC J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173436 R46-M1-N4 J14-U01 rts: kernel terminated for reason 1004
+1132173437 R46-M1-N0 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173438 R46-M1-N8 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173439 R46-M1-NE J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173439 R46-M1-NF J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173440 R46-M1-N1 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173441 R46-M1-N9 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173442 R46-M1-N3 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173442 R46-M1-N7 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173443 R46-M1-N5 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173444 R46-M1-N2 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173444 R46-M1-ND J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173445 R46-M1-NB J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173446 R46-M1-NA J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173446 R46-M1-N6 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173447 R46-M1-N4 J14-U01 Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
